@@ -1,0 +1,50 @@
+[
+  {
+    "uid": "100056992160405",
+    "data": {
+      "money": 10000,
+      "exp": 0,
+      "level": 0,
+      "banned": {
+        "status": false,
+        "reason": "",
+        "time": 0
+      },
+      "name": "Thiệu Trung Kiên",
+      "firstName": "Kiên",
+      "vanity": "ThieuTrungKi3n",
+      "avatar": "https://graph.facebook.com/100056992160405/picture?width=512&height=512&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+      "type": "friend",
+      "profileUrl": "https://www.facebook.com/ThieuTrungKi3n",
+      "isFriend": true,
+      "isBirthday": false,
+      "gender": "Nam",
+      "other": {
+        "cooldowns": 1696906000
+      }
+    }
+  },
+  {
+    "uid": "100080694111402",
+    "data": {
+      "money": 0,
+      "exp": 0,
+      "level": 0,
+      "banned": {
+        "status": false,
+        "reason": "",
+        "time": 0
+      },
+      "name": "𝑇ℎ𝑖𝑒𝑢 𝑇𝑟𝑢𝑛𝑔 𝐾𝑖𝑒𝑛",
+      "firstName": "𝐾𝑖𝑒𝑛",
+      "vanity": "",
+      "avatar": "https://graph.facebook.com/100080694111402/picture?width=512&height=512&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+      "type": "user",
+      "profileUrl": "https://www.facebook.com/profile.php?id=100080694111402",
+      "isFriend": false,
+      "isBirthday": false,
+      "gender": "Nam",
+      "other": {}
+    }
+  }
+]
