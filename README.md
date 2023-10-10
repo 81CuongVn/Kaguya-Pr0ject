@@ -6,6 +6,7 @@
 <br>Simple ChatBot Messenger.<br/>
 # UPDATE 
 ```sh
+> [ 11/10/2023 - 09:55 AM ] - refactor handler, fix database
 > [ 10/10/2023 - 12:36 PM ] - Fix handler, listen, update database json, refactor
 ```
 
