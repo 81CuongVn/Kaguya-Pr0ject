@@ -38,19 +38,6 @@ export default function ({ api, event }) {
 
   const unsend = (messageID) => api.unsendMessage(messageID);
 
-  const sendAttachment = (body = "", attachment, callback) => {
-    const messageObject = {
-      body: body,
-      attachment: attachment,
-    };
-
-    if (typeof callback === "function") {
-      api.sendMessage(messageObject, event.threadID, callback);
-    } else {
-      api.sendMessage(messageObject, event.threadID);
-    }
-  };
-
   const findUID = async (vanity) => {
     try {
       const response = await axios.get(`https://www.facebook.com/${vanity}`, {
