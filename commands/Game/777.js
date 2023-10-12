@@ -30,7 +30,7 @@ class JackpotGame {
 
     const spins = Array.from({ length: 3 }, () => SLOT_ITEMS[Math.floor(Math.random() * SLOT_ITEMS.length)]);
 
-    const winMultiplier = calculateWinMultiplier(spins);
+    var winMultiplier = calculateWinMultiplier(spins);
 
     const hasJackpot = Math.random() < 0.05;
 

@@ -5,7 +5,7 @@ export default {
   description: "Gỡ tin nhắn của bot",
   role: "member",
   aliases: ["gỡ"],
-  execute: async ({ event }) => {
+  execute: async ({ api, event }) => {
     if (event?.messageReply?.senderID != api.getCurrentUserID()) {
       return kaguya.reply("Không thể gỡ tin nhắn của người khác!");
     }
@@ -15,5 +15,11 @@ export default {
         return kaguya.reply("Đã xảy ra lỗi, vui lòng thử lại sau!");
       }
     });
+  },
+  events: async ({ api, event }) => {
+    var reaction = ["😢"];
+    if (event.reaction && event.senderID == api.getCurrentUserID() && reaction.includes(event.reaction)) {
+      kaguya.unsend(event.messageID);
+    }
   },
 };

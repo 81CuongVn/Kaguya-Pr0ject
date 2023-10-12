@@ -43,7 +43,7 @@ export default function ({ api }) {
             members: participantIDs.length,
             adminIDs: adminIDsArr,
             emoji,
-            prefix: config.prefix,
+            prefix: null,
             approvalMode,
             anti: { nameBox: false, imageBox: false },
             banned: { status: false, reason: null, time: null },

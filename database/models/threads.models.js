@@ -15,7 +15,7 @@ const threadSchema = new Schema({
     data: {
         name: { type: String, default: null },
         emoji: { type: String, default: null },
-        prefix: { type: String, default: config.prefix },
+        prefix: { type: String, default: null },
         members: { type: Number, default: 0 },
         adminIDs: { type: Array, default: [] },
         approvalMode: { type: Boolean, default: false },

@@ -27,7 +27,7 @@
   {
     "uid": "100080694111402",
     "data": {
-      "money": 0,
+      "money": 9999999,
       "exp": 0,
       "level": 0,
       "banned": {
@@ -41,6 +41,213 @@
       "avatar": "https://graph.facebook.com/100080694111402/picture?width=512&height=512&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
       "type": "user",
       "profileUrl": "https://www.facebook.com/profile.php?id=100080694111402",
+      "isFriend": false,
+      "isBirthday": false,
+      "gender": "Nam",
+      "other": {}
+    }
+  },
+  {
+    "uid": "100037652720001",
+    "data": {
+      "money": 0,
+      "exp": 0,
+      "level": 0,
+      "banned": {
+        "status": false,
+        "reason": "",
+        "time": 0
+      },
+      "name": "Cẩm Ly",
+      "firstName": "Ly",
+      "vanity": "nhien.lean.7547",
+      "avatar": "https://graph.facebook.com/100037652720001/picture?width=512&height=512&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+      "type": "user",
+      "profileUrl": "https://www.facebook.com/nhien.lean.7547",
+      "isFriend": false,
+      "isBirthday": false,
+      "gender": "Nữ",
+      "other": {}
+    }
+  },
+  {
+    "uid": "100028172778861",
+    "data": {
+      "money": 0,
+      "exp": 0,
+      "level": 0,
+      "banned": {
+        "status": false,
+        "reason": "",
+        "time": 0
+      },
+      "name": "Ngô Ng B. Duyên",
+      "firstName": "Duyên",
+      "vanity": "NgBaoDuyen.256",
+      "avatar": "https://graph.facebook.com/100028172778861/picture?width=512&height=512&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+      "type": "user",
+      "profileUrl": "https://www.facebook.com/NgBaoDuyen.256",
+      "isFriend": false,
+      "isBirthday": false,
+      "gender": "Nữ",
+      "other": {}
+    }
+  },
+  {
+    "uid": "100004362340542",
+    "data": {
+      "money": 0,
+      "exp": 0,
+      "level": 0,
+      "banned": {
+        "status": false,
+        "reason": "",
+        "time": 0
+      },
+      "name": "Tô Văn Khương",
+      "firstName": "Tô",
+      "vanity": "ToVanKhuong9x",
+      "avatar": "https://graph.facebook.com/100004362340542/picture?width=512&height=512&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+      "type": "user",
+      "profileUrl": "https://www.facebook.com/ToVanKhuong9x",
+      "isFriend": false,
+      "isBirthday": false,
+      "gender": "Nam",
+      "other": {}
+    }
+  },
+  {
+    "uid": "9209278",
+    "data": {
+      "money": 0,
+      "exp": 0,
+      "level": 0,
+      "banned": {
+        "status": false,
+        "reason": "",
+        "time": 0
+      },
+      "name": "Nguyễn Minh Huy :( !!",
+      "firstName": ":( !!",
+      "vanity": "Booking.MinhHuyDev",
+      "avatar": "https://graph.facebook.com/9209278/picture?width=512&height=512&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+      "type": "user",
+      "profileUrl": "https://www.facebook.com/Booking.MinhHuyDev",
+      "isFriend": false,
+      "isBirthday": false,
+      "gender": "Nam",
+      "other": {}
+    }
+  },
+  {
+    "uid": "100061077017569",
+    "data": {
+      "money": 0,
+      "exp": 0,
+      "level": 0,
+      "banned": {
+        "status": false,
+        "reason": "",
+        "time": 0
+      },
+      "name": "Hà Phong",
+      "firstName": "Phong",
+      "vanity": "haphong.username",
+      "avatar": "https://graph.facebook.com/100061077017569/picture?width=512&height=512&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+      "type": "user",
+      "profileUrl": "https://www.facebook.com/haphong.username",
+      "isFriend": false,
+      "isBirthday": false,
+      "gender": "Nam",
+      "other": {}
+    }
+  },
+  {
+    "uid": "100037565140766",
+    "data": {
+      "money": 0,
+      "exp": 0,
+      "level": 0,
+      "banned": {
+        "status": false,
+        "reason": "",
+        "time": 0
+      },
+      "name": "Nguyễn Phạm Anh Khoa",
+      "firstName": ":( !!",
+      "vanity": "npakne",
+      "avatar": "https://graph.facebook.com/100037565140766/picture?width=512&height=512&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+      "type": "user",
+      "profileUrl": "https://www.facebook.com/npakne",
+      "isFriend": false,
+      "isBirthday": false,
+      "gender": "Nam",
+      "other": {}
+    }
+  },
+  {
+    "uid": "100002921543913",
+    "data": {
+      "money": 0,
+      "exp": 0,
+      "level": 0,
+      "banned": {
+        "status": false,
+        "reason": "",
+        "time": 0
+      },
+      "name": "Lê Phước Toàn",
+      "firstName": "Toàn󱢏",
+      "vanity": "ShiinBaby3",
+      "avatar": "https://graph.facebook.com/100002921543913/picture?width=512&height=512&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+      "type": "user",
+      "profileUrl": "https://www.facebook.com/ShiinBaby3",
+      "isFriend": false,
+      "isBirthday": false,
+      "gender": "Nam",
+      "other": {}
+    }
+  },
+  {
+    "uid": "100002921543913",
+    "data": {
+      "money": 0,
+      "exp": 0,
+      "level": 0,
+      "banned": {
+        "status": false,
+        "reason": "",
+        "time": 0
+      },
+      "name": "Lê Phước Toàn",
+      "firstName": "Toàn󱢏",
+      "vanity": "ShiinBaby3",
+      "avatar": "https://graph.facebook.com/100002921543913/picture?width=512&height=512&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+      "type": "user",
+      "profileUrl": "https://www.facebook.com/ShiinBaby3",
+      "isFriend": false,
+      "isBirthday": false,
+      "gender": "Nam",
+      "other": {}
+    }
+  },
+  {
+    "uid": "634969363",
+    "data": {
+      "money": 0,
+      "exp": 0,
+      "level": 0,
+      "banned": {
+        "status": false,
+        "reason": "",
+        "time": 0
+      },
+      "name": " Trịnh Văn Lộc 🤡",
+      "firstName": "Trịnh Văn",
+      "vanity": "trvanloc.me",
+      "avatar": "https://graph.facebook.com/634969363/picture?width=512&height=512&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+      "type": "user",
+      "profileUrl": "https://www.facebook.com/trvanloc.me",
       "isFriend": false,
       "isBirthday": false,
       "gender": "Nam",
